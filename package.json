@@ -1,0 +1,16 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "acorn": "latest",
+    "casperjs": "^1.1.4",
+    "cheerio": "latest",
+    "express": "latest",
+    "phantomjs": "^2.1.7",
+    "request": "latest",
+    "spooky": "^0.2.5"
+  }
+}
